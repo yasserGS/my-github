@@ -123,6 +123,7 @@ text-align: center;
 .box .box-a p {
     font-size: 15px;
     font-weight: 500;
+    color: black;
 }
 
 .box .box-a p:hover {
